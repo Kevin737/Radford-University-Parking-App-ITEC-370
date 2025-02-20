@@ -14,7 +14,7 @@ A application designed to give parking information to make it easier for the use
  * Connect to a database
  * Be able to store information
  * Be able to retreive information
-### Sprint 2
+### Sprint  2
  * Display where the user is allowed to park
  * Display an interactive map
  * Add outlines to each lot
